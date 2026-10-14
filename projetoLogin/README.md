@@ -9,3 +9,4 @@ Aplicação web desenvolvida com React, Vite e React Router.
 - Lucide React (ícones)
 
 ## Link no GitHub
+https://github.com/imart1nn/Kanban
